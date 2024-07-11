@@ -57,7 +57,7 @@ I am constantly expanding my knowledge in:
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selimozten&theme=dark)](https://git.io/streak-stats)
 
 ## 🤝 Let's Connect
 
