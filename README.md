@@ -1,59 +1,59 @@
 # Selim Ozten
 
-## AI Engineer | Machine Learning Specialist | Computer Engineer
+## ML & Blockchain Engineer | High-Performance Systems Architect | Co-Founder
 
-Welcome to my GitHub profile! I'm a computer engineer specializing in artificial intelligence and machine learning. With a passion for innovation and a commitment to pushing the boundaries of technology, I strive to create impactful solutions in the AI landscape.
+Welcome to my GitHub profile! I'm a passionate engineer at the intersection of AI, blockchain, and high-performance systems. As the Co-Founder and Tech Lead at ganbitera.io and inpocket.ai, I'm constantly pushing the boundaries of what's technically possible with cutting-edge technologies.
 
 ## 🛠️ Core Competencies
 
-- **Large Language Models (LLMs)**
-- **Neural Networks & Deep Learning**
-- **MLOps & AI Infrastructure**
-- **Data Science & Analytics**
-- **Cloud Computing & DevOps**
+- **AI & Machine Learning**
+- **Blockchain Development (Sui/Move)**
+- **High-Performance Systems Engineering**
+- **Performance Optimization (Golang/Zig/CUDA)**
+- **System Architecture Design**
 
 ## 💻 Technical Skills
 
 | Category | Skills |
 |----------|--------|
-| Programming Languages | Python, JavaScript, C++ |
-| ML Frameworks | TensorFlow, PyTorch, scikit-learn |
-| Data Processing | Pandas, NumPy |
-| DevOps | Docker, Kubernetes, Jenkins |
-| Cloud Platforms | AWS, GCP, Azure |
+| AI & ML | TensorFlow, PyTorch, NLP, Computer Vision |
+| Blockchain | Move Language, Sui, Solidity, Smart Contracts |
+| High-Performance | Golang, Zig, CUDA, Trading Systems, Sub-ms Latency |
+| Programming | Python, JavaScript, Golang, Move, Zig, C++ |
+| Cloud & DevOps | AWS, GCP, Docker, Kubernetes, CI/CD |
 
 ## 🚀 Featured Projects
 
-### AI-Powered Text Summarizer
-Developed an advanced NLP model for concise article summarization, leveraging transformers and LLMs to maintain key information integrity.
+### ganbitera.io - AI Native/Sui Native NFT & Token Launchpad
+Built a high-performance platform on Sui blockchain with cutting-edge Move language contracts and AI-driven features, pushing the boundaries of what's possible in the Web3 space.
 
-### Sentiment Analysis Engine
-Created a robust sentiment analysis tool using deep learning models for real-time emotion detection in text, enabling businesses to gain actionable insights from customer feedback.
+### High-Performance Matching Engine
+Engineered a blazing-fast order matching system using Golang, Zig, and CUDA, achieving throughput rates of millions of operations per second with sub-50-microsecond latency.
 
-### Predictive Analytics for Financial Markets
-Engineered a sophisticated machine learning model for financial market trend prediction, incorporating time series analysis and advanced ML algorithms.
+### inpocket.ai - Enterprise AI Solutions
+Developed advanced ML models for businesses, streamlining operations with process optimization, predictive analytics, and custom ML solutions that drive real-world impact.
 
-### Neural Style Transfer Application
-Implemented a neural style transfer algorithm, bridging the gap between AI and artistic expression by applying the style of one image to the content of another.
+### System Architecture for Blockchain Applications
+Designed scalable, fault-tolerant systems handling millions of daily transactions, implementing innovative approaches to overcome traditional blockchain performance limitations.
 
-### Healthcare AI Chatbot
-Designed and deployed a conversational AI chatbot for healthcare assistance, capable of answering medical queries, providing health tips, and facilitating appointment scheduling.
+### NLP Document Processing
+Created a system using transformer models to understand and categorize documents, enabling businesses to process and extract insights from unstructured text data at scale.
 
-## 🌟 Additional Projects
+## 🌟 Innovation Focus
 
-- Math Solver App with step-by-step solutions
-- AI-enhanced NPCs for immersive gaming experiences
-- Smart home automation system with adaptive learning
-- ML-powered scientific data analysis tool
-- Multilingual translation model using LLMs
+- **Move Language Development** on Sui blockchain
+- **High-Performance Trading Systems** with microsecond-level latency
+- **AI/Blockchain Integration** for next-generation applications
+- **CUDA Optimization** for parallel processing at scale
+- **Low-Latency System Design** for real-time applications
 
 ## 🎓 Continuous Learning
 
-I am constantly expanding my knowledge in:
-- Advanced AI algorithms and architectures
-- Ethical AI and responsible innovation
-- Quantum computing applications in AI
-- Edge AI and IoT integration
+I am constantly pushing the limits in:
+- Advanced blockchain architectures and smart contracts
+- High-performance computing and GPU optimization
+- Cutting-edge AI algorithms and architectures
+- System design for extreme scale and performance
 
 ## 📊 GitHub Stats
 
@@ -61,12 +61,13 @@ I am constantly expanding my knowledge in:
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on innovative projects or discussing the latest in AI and technology. Feel free to reach out!
+I'm always excited to collaborate on innovative projects that push technological boundaries:
 
 - LinkedIn: [linkedin](https://www.linkedin.com/in/selimozten/)
-- Twitter: [@inpocketai](https://x.com/inpocketai)
+- X: [@oz10xyz](https://x.com/oz10xyz)
 - Email: ozten@inpocket.ai
+- Website: [oz10.xyz](https://oz10.xyz)
 
 ---
 
-"Innovating at the intersection of AI, engineering, and human potential."
+"I absolutely love pushing myself and technology to its limits. Innovation happens at the edge of possibility."
