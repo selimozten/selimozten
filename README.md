@@ -16,7 +16,11 @@ I build ML systems, architect cloud infrastructure, and write backend services i
 
 **[walgo](https://github.com/selimozten/walgo)** — CLI for deploying static sites to Walrus decentralized storage. Go.
 
-**[twilight-boxart](https://github.com/selimozten/twilight-boxart)** — Batch box art downloader for TwilightMenu++ on Nintendo DS. C / raylib.
+**[kova](https://github.com/selimozten/kova)** — Triangular arbitrage engine for cryptocurrency markets. Python.
+
+**[akis](https://github.com/selimozten/akis)** — Neural network architectures for accelerating computational fluid dynamics.
+
+**[volt](https://github.com/selimozten/volt)** — High-performance limit order book with O(1) operations, 50M+ ops/sec. Zig.
 
 ## Contact
 
