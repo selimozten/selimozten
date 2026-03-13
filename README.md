@@ -26,7 +26,7 @@ Startups I co-founded and built under inpocket.ai: [ganbitera.io](https://ganbit
 
 **[volt](https://github.com/selimozten/volt)** — High-performance limit order book with O(1) operations, 50M+ ops/sec. Zig.
 
-**[kova](https://github.com/selimozten/kova)** — Triangular arbitrage engine for cryptocurrency markets. Python.
+**[kova](https://github.com/selimozten/kova)** — Triangular arbitrage engine for cryptocurrency markets. Rust.
 
 ### Nintendo DS Homebrew
 
