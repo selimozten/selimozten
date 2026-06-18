@@ -22,6 +22,8 @@ Startups I co-founded and built under inpocket.ai: [ganbitera.io](https://ganbit
 
 ### Systems / Tools
 
+**[elek](https://github.com/selimozten/elek)** — Model-agnostic AI code review for GitHub Actions with multi-agent review orchestration and inline PR feedback. TypeScript.
+
 **[walgo](https://github.com/selimozten/walgo)** — CLI for deploying static sites to Walrus decentralized storage. Go.
 
 **[volt](https://github.com/selimozten/volt)** — High-performance limit order book with O(1) operations, 50M+ ops/sec. Zig.
